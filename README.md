@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Vinit Joshi 👋
 
-<!--
-**vinit-joshi1989/vinit-joshi1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Developer | Technical Lead | 15+ Years Experience
 
-Here are some ideas to get you started:
+📍 Riga, Latvia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Senior Java Engineer with 15+ years of experience building enterprise-scale software across Banking, Financial Services, AML, Payments, Insurance, Retail Analytics and Construction Finance.
+
+## 🚀 Core Technologies
+
+- Java 8 / 11 / 17 / 21
+- Spring Boot
+- Microservices
+- Apache Kafka
+- Apache Spark
+- REST APIs
+- PostgreSQL
+- Oracle
+- MongoDB
+- Docker
+- Kubernetes
+- AWS
+- GCP
+- React
+
+## 💼 Professional Experience
+
+- Deutsche Bank
+- HSBC
+- Citibank
+- Credit Suisse
+- Circana
+- Capri Global
+
+## 🔥 Currently Building
+
+- Enterprise Payment API
+- Kafka Microservices
+- Spring Boot Best Practices
+- Production Ready REST APIs
+
+## 🌱 Currently Learning
+
+- Advanced Kubernetes
+- AI-assisted Software Engineering
+- Cloud-native Java
+
+## 📫 Connect with me
+
+LinkedIn:
+www.linkedin.com/in/vinitjoshi1989
+
+Email:
+vinitjoshi1989@gmail.com
